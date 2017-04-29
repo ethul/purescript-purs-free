@@ -1,0 +1,15 @@
+{
+  "name": "purescript-purs-free",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "purs:compile": "purs compile 'src/**/*.purs' 'test/**/*.purs' 'bower_components/purescript-*/src/**/*.purs' 2>&1",
+    "pscid": "pscid",
+    "test": "node -e 'require(\"./output/Test.Main\").main()'"
+  },
+  "devDependencies": {
+    "pscid": "^1.12.1",
+    "purescript": "^0.11.4"
+  }
+}

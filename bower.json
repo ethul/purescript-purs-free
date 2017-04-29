@@ -1,0 +1,12 @@
+{
+  "name": "purescript-purs-free",
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!src/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ethul/purescript-purs-free.git"
+  }
+}
