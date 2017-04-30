@@ -2,8 +2,12 @@
 .psci
 .psci_modules
 .pulp-cache
+.psc-ide-port
+.psc-package
+psc-package.json
 npm-debug.log
 node_modules/
 bower_components/
 tmp/
 output/
+output-test/
